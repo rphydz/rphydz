@@ -1,5 +1,7 @@
 # Get to know me: I'm Raphael "Fitz" Dizon
 
+
+
 Hi there 👋🏽, I'm highly dedicated and experienced data analyst and customer service professional with a strong background in collaborating with teams and developing cutting-edge solutions in the areas of data analytics, data visualization, customer service and business process developement.
 With hands-on experience, I have successfully assisted teams to deliver innovative projects while also actively contributing as analyst. *My expertise lies in leveraging data analytics techniques and that drive actionable insights.* 
 
